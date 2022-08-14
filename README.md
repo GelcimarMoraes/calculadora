@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img width="600" src="https://live.staticflickr.com/65535/52265669719_6f028c0362_b.jpg"> 
+    <img width="600" src="https://raw.githubusercontent.com/GelcimarMoraes/GelcimarMoraes/main/Portfolio/calculator.png"> 
 </div>
 
 # 💻 Technologies used
